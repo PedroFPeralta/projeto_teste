@@ -1,8 +1,11 @@
 #Curriculo Vitale
 
-##Dale
+##Pedro Peralta
 
 ###Formação
-
+-Eng Ing
+-Dale
 
 ###Qualidade
+
+###Tudo
