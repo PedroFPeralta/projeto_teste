@@ -1,11 +1,11 @@
-#Curriculo Vitale
+# Curriculo Vitale
 
-##Pedro Peralta
+## Pedro Peralta
 
-###Formação
+### Formação
 -Eng Ing
 -Dale
 
-###Qualidade
+### Qualidade
 
-###Tudo
+### Tudo
